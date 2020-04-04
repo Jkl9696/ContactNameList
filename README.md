@@ -1,5 +1,5 @@
 # ContactNameList
-a contact list where you can dd list and the data is saved and serialized as a .dat file
+a contact list where you can input names to a list and the data is saved and serialized as a .dat file
 
 ## Adding 
 
